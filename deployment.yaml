@@ -17,7 +17,7 @@ spec:
   spec:
    containers:
    - name: myapp
-     image: rxk410/devops:tagversion
+     image: rxk417/devops:tagversion
      ports:
      - containerPort: 8080
 
